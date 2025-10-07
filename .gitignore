@@ -1,0 +1,13 @@
+# Personal Portfolio - Only track these files:
+# index.html
+# styles.css  
+# script.js
+# README.md
+
+# Ignore everything else
+*
+!.gitignore
+!index.html
+!styles.css
+!script.js
+!README.md
